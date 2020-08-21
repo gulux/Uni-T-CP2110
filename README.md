@@ -11,4 +11,4 @@ To work with UT171A run on command line:
 Testing:
     python3 -m ut-cp2110.testing.UTTest
     
-More information on my homepage [smartypies.com](smartypies.com)
+More information on my homepage [smartypies.com/projects/ut171a-data-reader-on-linux/](http://smartypies.com/projects/ut171a-data-reader-on-linux/)
